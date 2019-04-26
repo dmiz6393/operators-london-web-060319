@@ -3,6 +3,7 @@ if speed<40 || speed>60
 true
   elsif safe 
 end
+end
 
 
 
